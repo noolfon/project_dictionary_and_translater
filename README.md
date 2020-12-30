@@ -23,4 +23,6 @@ https://proglib.io/p/python-dictionary-app/
 
 проверка бранча
 
+hello
+
 
