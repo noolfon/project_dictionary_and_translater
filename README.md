@@ -14,15 +14,7 @@ The "Dictionary" console application.
 
 the application is written based on articles from the Internet.
 
-
-
-
-
 https://proglib.io/p/python-dictionary-app/
 
-
-проверка бранча
-
-hello
 
 
