@@ -14,4 +14,10 @@ The "Dictionary" console application.
 
 the application is written based on articles from the Internet.
 
-link: https://proglib.io/p/python-dictionary-app/
+
+
+
+
+https://proglib.io/p/python-dictionary-app/
+
+
